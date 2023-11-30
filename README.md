@@ -3,6 +3,8 @@
 
 Desenvolvido por: Rafael Alencar Pedro
 
+Documentação disponível no documento: Documentação Sispet
+
 Projeto criada com apoio dos professores da faculdade Senac Maringá
 
 Projeto consiste no sistema de petshop SISPET, onde até o momento deste commit é possivel realizar cadastro de usuario do sistema, dentro do sistema é possivel cadastrar, edita, listar e excluir os clientes que são os PETs, também esta disponível as mesmas funcionalidades para os produtos usados no petshop e os fornecedores destes produtos. 
